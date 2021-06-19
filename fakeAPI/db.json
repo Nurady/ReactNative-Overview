@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "zakwan2",
+      "email": "zakwan@gmail.com",
+      "bidang": "Developer React Native",
+      "id": 4
+    },
+    {
+      "name": "mya2",
+      "email": "mya@gmail.com",
+      "bidang": "Developer",
+      "id": 5
+    },
+    {
+      "name": "izzan2",
+      "email": "izzan@gmail.com",
+      "bidang": "developer",
+      "id": 6
+    },
+    {
+      "name": "tes",
+      "email": "tes2@gmail.com",
+      "bidang": "developer",
+      "id": 7
+    }
+  ]
+}
